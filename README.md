@@ -1,6 +1,6 @@
 # Hi, I'm Hoang 👋
 
-I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hopkins Whiting School of Engineering 🏫, where I am learning advanced topics in machine learning, computer vision, natural language processing, and robotics. I have a strong background in biomedical engineering, with a Bachelor of Engineering degree from the University of Houston, and am in the process of obtaining the Data Science certification from IBM. I have also gained valuable research experience as an Undergraduate Research Assistant at the Regenerative Neurobiology & Neuroelectronic Laboratory, where I assisted with data collection, analysis, and imaging for a project on using wireless neural interfaces for peripheral nerve regeneration and treatment of stress urinary incontinence. 
+I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hopkins Whiting School of Engineering 🏫, where I am learning advanced topics in machine learning, computer vision, natural language processing, and robotics. I have a strong background in biomedical engineering, with a Bachelor of Engineering degree from the University of Houston, and am in the process of obtaining the Data Science certification from IBM.
 
 - 🌱 I’m currently learning about Artificial Intelligence at Johns Hopkins University 🏫
 - 🌍 Languages: Python, MATLAB, SQL, Vietnamese, English
