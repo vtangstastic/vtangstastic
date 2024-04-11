@@ -26,7 +26,7 @@ I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hop
 <a href="https://ibb.co/B4QXcvc"><img src="https://i.ibb.co/tZv7QnQ/Screenshot-2024-04-11-173827.png" alt="Screenshot-2024-04-11-173827" border="0"></a>
 
 
-**PURS Project -Investigation of A Biomarker For Stress Urinary Incontinence (SUI) In A Rabbit Model** is a **study aimed to identify the most suitable biomarkers for SUI in our animal model (rabbit) by employing ELISA (Enzyme-Linked Immunosorbent Assay) techniques** built with **ELISA, GraphPad**. This project demonstrates my ability to **conduct comprehensive research, perform sophisticated laboratory techniques, analyze complex data sets, and present findings effectively.**. You can check out the work [here](https://drive.google.com/file/d/1PrvvQ2rqqqXtCfSAq6uNHbsneO3vrRzX/view).
+**This project** is a **study aimed to identify the most suitable biomarkers for SUI in our animal model (rabbit) by employing ELISA (Enzyme-Linked Immunosorbent Assay) techniques** built with **ELISA, GraphPad**. This project demonstrates my ability to **conduct comprehensive research, perform sophisticated laboratory techniques, analyze complex data sets, and present findings effectively.**. You can check out the work [here](https://drive.google.com/file/d/1PrvvQ2rqqqXtCfSAq6uNHbsneO3vrRzX/view).
 
 ### [<img src="https://i.ibb.co/PwM7cc2/RT-logo.png" heigh=75 width=75>](https://rabid-tasker.web.app/) [RABID TASKER](https://rabid-tasker.web.app/Home)
 
@@ -38,7 +38,7 @@ I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hop
 
 <a href="https://ibb.co/wQyMvHV"><img src="https://i.ibb.co/z2sGkcp/Screenshot-2024-04-11-181124.png" alt="Screenshot-2024-04-11-181124" border="0"></a>
 
-**A Hybrid in Silico Model of the Rabbit Bulbospongiosus Nerve** is a **method to construct a recruitment curve of a nerve in the bladder when stimulated by an electrode** built with **Sim4Life, ImageJ, Python**. This project showcases my skills in **computational modeling, image analysis, and programming with Python.**. You can check out the work [here](https://docs.google.com/presentation/d/1i-H6iJv23251j5xhvtSrhFYicCKRRGS2/edit?amp%3Bouid=106798688794723663606&amp%3Brtpof=true&amp%3Bsd=true#slide=id.g1e18d793b26_0_3).
+**This project** is a **method to construct a recruitment curve of a nerve in the bladder when stimulated by an electrode** built with **Sim4Life, ImageJ, Python**. This project showcases my skills in **computational modeling, image analysis, and programming with Python.**. You can check out the work [here](https://docs.google.com/presentation/d/1i-H6iJv23251j5xhvtSrhFYicCKRRGS2/edit?amp%3Bouid=106798688794723663606&amp%3Brtpof=true&amp%3Bsd=true#slide=id.g1e18d793b26_0_3).
 ## Get in Touch 📬
 
 - **[LinkedIn](https://www.linkedin.com/in/hoang1802tran/)**
