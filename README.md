@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about Artificial Intelligence at Johns Hopkins University 🏫
+- 📫 How to reach me: hoangtran101999@gmail.com
+
+- My summary:
+I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hopkins Whiting School of Engineering 🏫, where I am learning advanced topics in machine learning, computer vision, natural language processing, and robotics. I have a strong background in biomedical engineering, with a Bachelor of Engineering degree from the University of Houston, and am in the process of obtaining the Data Science certification from IBM. I have also gained valuable research experience as an Undergraduate Research Assistant at the Regenerative Neurobiology & Neuroelectronic Laboratory, where I assisted with data collection, analysis, and imaging for a project on using wireless neural interfaces for peripheral nerve regeneration and treatment of stress urinary incontinence. 
+
 <!--
 **vtangstastic/vtangstastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
