@@ -19,13 +19,13 @@ I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hop
 
 ### [<img src="https://i.ibb.co/PwM7cc2/RT-logo.png" heigh=30 width=30>](https://rabid-tasker.web.app/) [RABID TASKER](https://rabid-tasker.web.app/Home)
 
-<a href="https://ibb.co/BsbpV12"><img src="https://i.ibb.co/vzpFxt4/Screenshot-2024-04-11-175309.png" alt="Screenshot-2024-04-11-175309" border="0" heigh=200 width=700></a>
+![Header](./Screenshot04-11.png)
 
 **[RABID TASKER](https://rabid-tasker.web.app/Home)** is a **a ✨revolutionary✨ task management tool that brings ancient task management into the future** built with **Google Firebase**. This project showcases my skills in **developing scalable web applications with real-time database capabilities, implementing user authentication and authorization systems, and creating intuitive user interfaces for seamless task management experiences**. You can check out the repository [here](https://github.com/cytoshell/RowdyHacksSpring2024/tree/main).
 
 ### [A Hybrid in Silico Model of the Rabbit Bulbospongiosus Nerve](https://docs.google.com/presentation/d/1i-H6iJv23251j5xhvtSrhFYicCKRRGS2/edit?amp%3Bouid=106798688794723663606&amp%3Brtpof=true&amp%3Bsd=true#slide=id.g1e18d793b26_0_3)
 
-<a href="https://ibb.co/wQyMvHV"><img src="https://i.ibb.co/z2sGkcp/Screenshot-2024-04-11-181124.png" alt="Screenshot-2024-04-11-181124" border="0" heigh=150 width=500></a>
+![Header](.//Screenshot2024-04-11.png)
 
 **This project** is a **method to construct a recruitment curve of a nerve in the bladder when stimulated by an electrode** built with **Sim4Life, ImageJ, Python**. This project showcases my skills in **computational modeling, image analysis, and programming with Python.**. You can check out the work [here](https://docs.google.com/presentation/d/1i-H6iJv23251j5xhvtSrhFYicCKRRGS2/edit?amp%3Bouid=106798688794723663606&amp%3Brtpof=true&amp%3Bsd=true#slide=id.g1e18d793b26_0_3).
 ## Get in Touch 📬
