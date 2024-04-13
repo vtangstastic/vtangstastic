@@ -33,10 +33,14 @@ I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hop
 - **[LinkedIn](https://www.linkedin.com/in/hoang1802tran/)**
 - **[Credly](https://www.credly.com/users/hoang-tran.09d2f0ee/badges)**
 
-[![Vtangstastic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtangstastic&show_icons=true&theme=dracula&show=logo&rank_icon=github)](https://github.com/vtangstastic/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vtangstastic&theme=radical&hide_border=true)](https://git.io/streak-stats) 
+## My Stats:
+
+[![Vtangstastic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtangstastic&show_icons=true&theme=dracula&show=logo&rank_icon=github)](https://github.com/vtangstastic/github-readme-stats) [![Hoang's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hoang1802tran&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vtangstastic&theme=radical&hide_border=true)](https://git.io/streak-stats) 
+
+ ## Total Achievement:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vtangstastic&theme=darcula)
-[![Hoang's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hoang1802tran&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vtangstastic&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
