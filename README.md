@@ -36,6 +36,7 @@ I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hop
 [![Vtangstastic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtangstastic&show_icons=true&theme=dracula&show=logo&rank_icon=github)](https://github.com/vtangstastic/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vtangstastic&theme=radical&hide_border=true)](https://git.io/streak-stats) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vtangstastic&theme=darcula)
+[![Hoang's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hoang1802tran&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vtangstastic&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
