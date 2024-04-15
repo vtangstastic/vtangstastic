@@ -10,6 +10,7 @@ I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hop
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vtangstastic&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vtangstastic&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtangstastic&layout=compact)
 
 #### My Community 👥:
 
@@ -43,4 +44,5 @@ I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hop
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vtangstastic&theme=darcula)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vtangstastic&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
