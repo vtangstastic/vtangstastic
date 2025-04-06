@@ -32,7 +32,7 @@ I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hop
 ## Get in Touch 📬
 
 - **[LinkedIn](https://www.linkedin.com/in/hoang1802tran/)**
-- **[Credly](https://www.credly.com/users/hoang-tran.09d2f0ee/badges)**
+- **[Credly](https://www.credly.com/users/hoang-tran.a23fa934)**
 
 ## My Stats:
 
