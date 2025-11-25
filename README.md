@@ -10,8 +10,6 @@ I am pursuing a Master of Science degree in Artificial Intelligence at Johns Hop
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vtangstastic&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vtangstastic&theme=darcula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtangstastic&layout=compact)
-
 #### My Community 👥:
 
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" heigh=15 width=64/> <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" heigh=20 width=70/> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" heigh=20 width=70/>
